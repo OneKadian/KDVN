@@ -6,8 +6,8 @@ import Header from "./components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Indie Hacker Kit",
-  description: "Launch your Saas Today",
+  title: "L(a)unch Time",
+  description: "Time to Launch",
 };
 
 export default function RootLayout({ children, className = "" }) {
